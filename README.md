@@ -1,4 +1,4 @@
-# Police-Enhancements
+# Rich's Police Enhancements
 Quality of life enhancements for you and police AI 
 
 ## INSTALLATION
