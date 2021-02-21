@@ -20,3 +20,5 @@ Ambient events utilize ambient peds, and certain events only use specific peds. 
 
 * **Drug Deal** - Uses Grove, Balla, and Vagos peds.  You'll come across this event in areas where these peds exist.
 * **Drive-by** - Uses Grove, Balla, and Vagos peds.  You'll come across this event in areas where these peds exist.
+* **Assault** - Does not use specific peds.  You can experience this event anywhere.
+* **Carjacking** - Does not use specific peds.  You can experience this event anywhere.
