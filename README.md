@@ -18,7 +18,7 @@ The Street Audio files are used by the DispatchAudio feature.  To use the street
 ## AMBIENT EVENTS
 Ambient events utilize ambient peds, and certain events only use specific peds. If the peds are not present when the event is trying to start, the event will not happen. This does not mean the event is broken.
 
-* **Drug Deal** - Uses Grove, Balla, and Vagos peds.  You'll come across this event in areas where these peds exist.
-* **Drive-by** - Uses Grove, Balla, and Vagos peds.  You'll come across this event in areas where these peds exist.
 * **Assault** - Does not use specific peds.  You can experience this event anywhere.
 * **Carjacking** - Does not use specific peds.  You can experience this event anywhere.
+* **Drug Deal** - Uses Grove, Balla, and Vagos peds.  You'll come across this event in areas where these peds exist.
+* **Drive-by** - Uses Grove, Balla, and Vagos peds.  You'll come across this event in areas where these peds exist.
